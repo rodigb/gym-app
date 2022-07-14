@@ -1,0 +1,35 @@
+
+$brown: #A87328;
+$darkblue: #0C347D;
+$umber: #54290C;
+$springer: #EDED80;
+
+.card{
+
+    height: 200px;
+    width: 160px;
+    color: black;
+    font-size: 0.9em;
+    font-family: Verdana, sans-serif;
+ 
+    margin-top: 20px;
+    transition: transform 0.4s ease;
+    display:inline-block;
+    margin:2px;
+ 
+ 
+}
+
+
+.card:hover{
+    width:160px;
+    transition:0.5s ease-in;
+    background-color: red;
+}
+
+ 
+
+  .text-section{
+    font-size: 10px;
+    text-align: center;
+  }
